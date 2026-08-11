@@ -1,11 +1,5 @@
 <h1 align="center">Hey, I'm starkkiv</h1>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <i>https://trophygithubreadmelang.cybee.dpdns.org/?username=starkkiv&theme=dark<i>
-  </a> 
-</p>
-
 <p align="center">
   <i>Developer | Learning Mathematics & Machine Learning | Linux Enthusiast</i>
 </p>
