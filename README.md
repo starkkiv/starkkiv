@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm starkkiv 👋</h1>
+<h1 align="center">Hey, I'm starkkiv</h1>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -7,22 +7,22 @@
 </p>
 
 <p align="center">
-  <i>Quantitative Developer | Learning Mathematics & Machine Learning | Linux Enthusiast</i>
+  <i>Developer | Learning Mathematics & Machine Learning | Linux Enthusiast</i>
 </p>
 
 <br>
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🔭 I’m currently working on **a Solana memecoin quantitative bot model**
-- 🌱 I’m currently learning **mathematics**
-- 🤝 I’m looking for help with **maths and machine learning**
-- 💡 Ask me about **hardware tips and Linux**
-- 📫 How to reach me: **a282c03c-cd64-4a84-971d-28b82d3bb0da@anonaddy.me**
+-  I’m currently working on **a Solana memecoin quantitative bot model**
+-  I’m currently learning **mathematics**
+-  I’m looking for help with **maths and machine learning**
+-  Ask me about **hardware tips and Linux**
+-  How to reach me: **a282c03c-cd64-4a84-971d-28b82d3bb0da@anonaddy.me**
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a> 
@@ -37,19 +37,16 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=starkkiv&theme=gruvbox&border_radius=23" alt="GitHub Stats Card" width="48%" />
   <img src="https://ghstats.dev/api/sparkline?username=starkkiv&theme=gruvbox&days=30&width=320&height=80" alt="Contribution Sparkline" width="48%" />
 </p>
-<p align="center">
-  <img src="https://ghstats.dev/api/mini?username=starkkiv&theme=gruvbox&metric=streak" alt="GitHub Mini Badge" />
-</p>
 
 ---
 
-### 🌐 Connect with me
+###  Connect with me
 
 <p align="left">
   <a href="mailto:a282c03c-cd64-4a84-971d-28b82d3bb0da@anonaddy.me">
