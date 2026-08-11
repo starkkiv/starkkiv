@@ -6,11 +6,11 @@
 
 - I’m currently working on **a solana memecoin quantitative bot model**
 
-- I’m currently learning **mathematics**
+- I’m currently also learning **mathematics**
 
-- I’m looking for help with **mathematics and machine learning**
+- I’m looking for help with **maths and machine learning**
 
--  Ask me about **hardware tips**
+-  Ask me about **hardware tips and linux**
 
 -  How to reach me **a282c03c-cd64-4a84-971d-28b82d3bb0da@anonaddy.me**
 
