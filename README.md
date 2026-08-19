@@ -6,7 +6,7 @@
 
 <br>
 
-###  About Me
+###  About Me  ###
 
 -  I’m currently working on **a Solana memecoin quantitative bot model**
 -  I’m currently learning **mathematics**
