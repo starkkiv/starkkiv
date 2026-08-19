@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm starkkiv</h1>
+<h1 align="center">Hi, I'm starkkiv</h1>
 
 <p align="center">
   <i>Developer | Learning Mathematics & Machine Learning | Linux Enthusiast</i>
@@ -6,7 +6,7 @@
 
 <br>
 
-###  About Me  ###
+###  About Me
 
 -  I’m currently working on **a Solana memecoin quantitative bot model**
 -  I’m currently learning **mathematics**
